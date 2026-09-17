@@ -1,4 +1,4 @@
-# 🕉️ VedoGyan – Holistic Learning Platform
+# VedoGyan – Holistic Learning Platform
 
 Welcome to **VedoGyan**, your one-stop platform for mastering ancient Indian knowledge systems like **Astrology**, **Vastu**, and **Swar Vigyan**.
 
