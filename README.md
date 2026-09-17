@@ -12,7 +12,6 @@ Welcome to **VedoGyan**, your one-stop platform for mastering ancient Indian kno
   * **Vastu** – 4 Sub-Categories
   * **Swar Vigyan** – 1 Sub-Category
 * 🛍️ Wishlist and Account section for personalized experience.
-* 🔓 Free and paid courses available (starting at ₹499).
 
 ## 🧠 Top Courses
 
